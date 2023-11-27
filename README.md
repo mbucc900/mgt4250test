@@ -11,4 +11,4 @@ These are my questions.
 This is *especially* **important** because
 1. First reason
 2. Second reason
-3. Third reason [LINK](www.elon.edu)
+3. Third reason [LINK](https://www.elon.edu)
